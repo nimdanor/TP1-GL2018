@@ -4,6 +4,12 @@
 
 **Compétence :** Surfer sur un PC
     -> Une formation
+    
+**Objectifs/Use case :**
+
+- Bien s'amuser
+- Se former
+- Réaliser des activités
 
 **Qualité :**
 
