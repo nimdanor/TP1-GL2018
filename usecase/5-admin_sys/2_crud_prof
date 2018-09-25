@@ -1,0 +1,15 @@
+# Creer Professeur
+
+## Description
+
+L'administrateur doit pouvoir CRUD un professeur.
+
+## Primary Actor
+
+Administrateur système.
+
+## Preconditions
+
+User doit être logué.
+
+## Main success scenario
