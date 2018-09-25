@@ -5,7 +5,7 @@
 **Compétence :** Surfer sur un PC
     -> Une formation
 
-## Qualité
+**Qualité :**
 
 - Rapidité de retour sur une évaluation
 - Rappel d'une deadline
