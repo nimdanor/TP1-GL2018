@@ -11,4 +11,4 @@ Aucun
  - Se connecter
 
 #### Qualité :
- - Accès uniquement à l'accueil et la page de loggin
+ - Accès uniquement à l'accueil et la page de login
