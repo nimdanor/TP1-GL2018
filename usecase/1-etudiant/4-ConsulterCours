@@ -1,6 +1,10 @@
 # Consulter un cours 
 
-num : 4 
+num: 4 
 
-Pré-requis :
-  l'étudiant doit etre logué sur la plateforme et etre inscrit au cours.
+Pré-requis:
+  L'étudiant doit etre logué sur la plateforme et etre inscrit au cours.
+  
+  
+Post-requis:
+  L'étudiant consulte les ressources et les activités présentes sur les différents cours. 
