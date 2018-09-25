@@ -3,5 +3,8 @@
 
 Acteur secondaire
 
-Compétence :
+Compétence : 
+Surfer sur un PC
+
+Role :
 Créer des activités
