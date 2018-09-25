@@ -17,4 +17,7 @@ num: 1
 - Intégrer le nouveau module dans l'application en créant une nouvelle release.
 
 **Post-requis:**
-- L'activité a été créée
+- Release créée
+- Avertir l'administrateur système qu'une nouvelle release doit être déployée
+
+**Fréquence:** Rarement
