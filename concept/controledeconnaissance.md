@@ -1,0 +1,3 @@
+## Controle de connaissance sur un cours 
+
+Notation sur une partie ou totalité du cours sous différentes formes : QCM, Rédaction, ...
