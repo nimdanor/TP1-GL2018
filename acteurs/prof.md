@@ -8,4 +8,6 @@
 
 **Rôles :**
 
-**Qualité :**
+**Qualités :**
+- Correcteur orthographique (important)
+- IHM Intelligente (qqcvd)
