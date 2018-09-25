@@ -1,4 +1,4 @@
-# Responsable de formation
+#Responsable de formation
 
 **Acteur secondaire**
 
@@ -11,10 +11,12 @@
 - RU cohortes
 - Donner des droits aux professeurs
 
+**Objectifs/cas d'utilisation :**
+- Créer des cours pour les professeurs 
+- Gerer les cours de sa formation
 
 **Qualités :**
 
 - Avoir un retour en cas d'ajout de ressources ou d'ajout de notes
-- Création facile d'un cours
 - Gestion simple et efficace pour ajouter un utilisateur
 
