@@ -1,9 +1,27 @@
-# Gérer les inscrits
+## Name
+Gérer les inscrits
 
+## Brief Description
 Le professeur gère les utilisateurs inscrit à un cours. 
 
-Il doit gérer plusieurs choses :
+## Actors
+Professeurs, étudiants
+
+## Preconditions
+Avoir un cours sur le LMS
+
+## Basic Flow
+Le professeur doit gérer plusieurs choses :
 
   - ajout des utilisateurs à un cours
   - suppression d'utilisateur d'un cours
   - envoie de message à une personne ou à un groupe de personnes
+  
+## Alternate Flows
+Les élèves doivent être authentifié au préalable pour disposer des autorisations pour consulter le cours en question
+
+## Exception Flows
+Si un utilisateur n'est pas assigné à un cours, il ne peux pas y accéder.
+
+## Post Conditions
+L'utilisateur accède au cours dont il possède l'autorisation
