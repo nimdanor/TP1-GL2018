@@ -1,5 +1,8 @@
 # Etudiant
 
+- Acteur principal
+- 
+
 ## Qualité
 
 - Rapidité de retour sur une évaluation
@@ -7,4 +10,3 @@
 - Information lors d'un ajout de ressources
 - Interface User friendly / personnalisé
 
-Utilisateur principal
