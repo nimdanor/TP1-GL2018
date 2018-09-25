@@ -1,6 +1,6 @@
 # Etudiant
 
-- Acteur principal
+**Acteur principal**
 
 **Compétence :** Surfer sur un PC
     -> Une formation
