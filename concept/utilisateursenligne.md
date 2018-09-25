@@ -1,3 +1,2 @@
-#Utilisateurs en ligne
-
-- Liste des utilisateurs en ligne
+# Utilisateurs en ligne
+Voir l'ensemble des utilisateurs en ligne.
