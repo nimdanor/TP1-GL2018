@@ -1,3 +1,3 @@
 # Barème
 
-Indique un barème sur un exercice / exam et autres trucs notés.
+Le barème est le barycentre des notes donnant la notation des exercices, examens.
