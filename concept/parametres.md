@@ -1,4 +1,4 @@
 #Parametre
 
-Changer le visuel du site 
-Langue
+*Changer le visuel du site 
+*Langue
