@@ -1,7 +1,9 @@
 # Etudiant
 
 - Acteur principal
-- 
+
+**Compétence :** Surfer sur un PC
+    -> Une formation
 
 ## Qualité
 
