@@ -1,13 +1,13 @@
 # Administrateur système
 
-**Acteur:** principal
+**Acteur :** secondaire
 
-**Compétences:** surfer sur un PC
+**Compétences :** gérer un système informatique
 
-**Rôles:**
+**Rôles :**
 - Gérer les droits d'accès
 - Déployer l'application
 
-**Objectifs:**
+**Objectifs :**
 - Gérer l'application
 
