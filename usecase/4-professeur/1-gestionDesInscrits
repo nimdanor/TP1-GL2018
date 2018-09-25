@@ -1,3 +1,9 @@
 # Gérer les inscrits
 
-Le professeur gère les utilisateurs inscrit à un cours. Il doit
+Le professeur gère les utilisateurs inscrit à un cours. 
+
+Il doit gérer plusieurs choses :
+
+  - ajout des utilisateurs à un cours
+  - suppression d'utilisateur d'un cours
+  - envoie de message à une personne ou à un groupe de personnes
