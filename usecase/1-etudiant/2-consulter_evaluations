@@ -1,12 +1,12 @@
 # consulter evaluation
 num:2
-Pré-requis :
-Exister, se connecter, ,
+    Pré-requis :
+Exister, se connecter
 
     Résumé:
-L’enseignant entre ses données et les valident. L'enseignant à atteint son objectif (saisir des données)
+L'élève se connecte et consulte ses notes
 
-    Poste requis:
-Notification pour paraphe de tout signataire nécessaire
-La feuille de déclaration est sauvée dans la base
+    Post requis:
+Des evaluation ont été faites
+Les notes ont étés mise à jour
 
