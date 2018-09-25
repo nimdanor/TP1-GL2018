@@ -1,12 +1,12 @@
-Use Case 1: Créer sa formation
+#Use Case 1: Créer sa formation
 =================================
 Responsable de formation
 
-Main success scenario:
+**Main success scenario:**
 ----------------------
 1. Créer sa formation 
 
-Extensions:
+**Extensions:**
 -----------
 1. Créer les cours
 2. Attribuer un ou des professeurs à un cours
