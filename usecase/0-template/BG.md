@@ -10,6 +10,10 @@
 
 
 
+## Frequency 
+(Number of times to run in a given period)
+
+
 ## Triggers 
 (What prompts the use case to start?)
 
