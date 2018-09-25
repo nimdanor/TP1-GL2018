@@ -1,4 +1,12 @@
-## Qualité
+# Responsable de formation
+
+**Acteur secondaire**
+
+**Compétence :**
+
+**Rôle :**
+
+**Qualités :**
 
 - Avoir un retour en cas d'ajout de ressources ou d'ajout de notes
 - Création facile d'un cours
