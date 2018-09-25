@@ -1,13 +1,19 @@
 # Administrateur système
 
-**Acteur :** secondaire
+**Acteur secondaire** 
 
 **Compétences :** gérer un système informatique
+    -> une formation
+
+**Objectifs/Use case :**
+
+- Gérer l'application
 
 **Rôles :**
+
 - Gérer les droits d'accès
 - Déployer l'application
 
-**Objectifs :**
-- Gérer l'application
+**Qualités :**
 
+- None
