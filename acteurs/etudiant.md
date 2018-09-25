@@ -3,7 +3,7 @@
 - Acteur principal
 
 **Compétence :** Surfer sur un PC
-    -> Une formation
+    \n-> Une formation
 
 ## Qualité
 
