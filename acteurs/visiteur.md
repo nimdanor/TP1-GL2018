@@ -1,4 +1,3 @@
-Acteur secondaire
+Acteur : secondaire
 
 Compétence : Surfer sur un PC
-
