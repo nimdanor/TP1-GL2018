@@ -16,4 +16,4 @@
 
 **Qualités :**
 
-- None
+- None (Nonne)
