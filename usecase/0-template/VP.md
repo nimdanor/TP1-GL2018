@@ -6,4 +6,4 @@
 
 ## Preconditions
 
-## Main success scénario
+## Main success scenario
