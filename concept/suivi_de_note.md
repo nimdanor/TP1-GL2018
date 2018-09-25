@@ -1,1 +1,1 @@
-# Suivi de notes par semestre pour les élèves
+# Suivi de notes par semestre et par cours pour les élèves
