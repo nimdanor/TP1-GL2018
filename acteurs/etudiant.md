@@ -11,7 +11,12 @@
 - Se former
 - Réaliser des activités
 
-**Qualité :**
+**Rôle :**
+
+- Réalise les activités
+- Participer à des cours
+
+**Qualités :**
 
 - Rapidité de retour sur une évaluation
 - Rappel d'une deadline
