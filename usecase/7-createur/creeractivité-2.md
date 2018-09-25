@@ -1,5 +1,4 @@
-# UseCase
-Create an activity
+# Create an activity
 
 ## Brief Description
 An activity is many actions that studiants can do. 
