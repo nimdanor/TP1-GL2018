@@ -1,1 +1,13 @@
-L'administrateur doit avoir accès à tout l'application, doit pouvoir prendre tous les roles, et pouvoir faire tout ce que tout le monde peu faire
+# Administrateur système
+
+**Acteur:** principal
+
+**Compétences:** surfer sur un PC
+
+**Rôles:**
+- Gérer les droits d'accès
+- Déployer l'application
+
+**Objectifs:**
+- Gérer l'application
+
