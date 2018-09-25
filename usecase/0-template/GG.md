@@ -8,7 +8,7 @@
 ## Description 
 (This may be several paragraphs. Context is important. You are describing the use case in some detail, and since many of the use cases will involve users changing parameters on data visualizations, you should be exceedingly clear about this type of thing.)
 
-
+## Frequency
 
 ## Triggers 
 (What prompts the use case to start?)
