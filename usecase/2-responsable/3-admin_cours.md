@@ -1,5 +1,4 @@
-# CRUD
-
+# Administration des cours
 num : 3
 
 Le responsable doit pouvoir :
