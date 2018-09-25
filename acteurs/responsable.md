@@ -13,6 +13,7 @@
 
 **Objectifs/cas d'utilisation :**
 - Créer sa formation
+- Gérer les cohortes de sa formation
 
 **Qualités :**
 
