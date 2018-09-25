@@ -1,6 +1,5 @@
 
 # Droits d'accès
-num : 5
 
 L'administrateur système gère les droits d'accès des utilisateurs du système.
 
