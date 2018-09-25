@@ -1,1 +1,3 @@
-Document regroupant les photos des membres d'un groupe (société, assemblée, etc.).
+#Trombinoscope
+
+Document regroupant les photos des membres d'un groupe (professeurs, étudiants, groupes).
