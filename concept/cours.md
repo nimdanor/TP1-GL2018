@@ -1,4 +1,4 @@
-Un cours est géré par un responsable 
+Un cours est géré par un prof responsable 
 Il peut contenir des ressources, des exercices, des espaces de rendu, le tout de façon organisée
 
 Pour accèder au cours si on est pas responsable ou administrateur, on doit etre inscrit.
