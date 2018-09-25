@@ -1,8 +1,8 @@
 
 # Calendrier
 
-Les utilisateurs visualisent un calendrier avec les évennements :
+Les utilisateurs visualisent un calendrier avec les évènements :
 - date de rendu d'exercice
-- date d'examem
+- date d'examen
 - cours
-- dépots d'exercice
+- dépot d'exercice
