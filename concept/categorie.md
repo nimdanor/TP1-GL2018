@@ -1,3 +1,3 @@
-#categorie
+# Categorie
 
-Des catégories de cours
+Des catégories par thématique : informatique, génie civil, etc.
