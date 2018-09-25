@@ -4,22 +4,24 @@
 Effectuer une activité (devoir, consultation, etc.)
 
 ## Brief Description
-Un étudiant 
+Un étudiant dépose son travail, consulte des cours, utilise un autre LMS (wims), etc.
 
 ## Actors
-L'étudiant
+L'étudiant.
 
 ## Preconditions
-Anything the solution can assume to be true when the use case begins.
+Que l'activité soit créée.
+Que l'étudiant soit autorisé à accéder à l'activité (par le professeur ou sa cohorte).
 
 ## Basic Flow
-The set of steps the actors take to accomplish the goal of the use case. A clear description of what the system does in response to each user action.
+L'étudiant se connecte et sélectionne son activité puis la réalise.
 
 ## Alternate Flows
-Capture the less common user/system interactions, such as being on a new computer and answering a security question.
+
 
 ## Exception Flows
-The things that can happen that prevent the user from achieving their goal, such as providing an incorrect username and password.
+Deadline depassé ?
 
 ## Post Conditions
-Anything that must be true when the use case is complete.
+L'étudiant peut modifier son activité mais un élément visuel signal si la dernière modification a été effectué dans les temps ou non.
+
