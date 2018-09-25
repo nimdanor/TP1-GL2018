@@ -6,8 +6,7 @@
 Fournit des APIs :
 
 - CAS
-- APOGEE
+- APOGEE http://RTFM-APOGEE.fr
 - GIRAFE
 
 
-http://RTFM-APOGEE.fr
