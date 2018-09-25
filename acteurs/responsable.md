@@ -12,8 +12,7 @@
 - Donner des droits aux professeurs
 
 **Objectifs/cas d'utilisation :**
-- Créer des cours pour les professeurs 
-- Gerer les cours de sa formation
+- Créer sa formation
 
 **Qualités :**
 
